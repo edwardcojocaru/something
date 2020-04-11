@@ -3,3 +3,4 @@
 .settings
 *.ser
 target/
+*.swg
